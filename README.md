@@ -22,11 +22,6 @@ Uma página inspirada no site oficial da Apple, criada para prática de HTML, CS
 
 ---
 
-## 🌐 Demonstração
-
-Você pode ver o site funcionando aqui:  
-[🔗 **Clique para abrir**](https://github.com/rodDev288/iphone13-pro.git)
-
 ## 🛠 Tecnologias usadas
 
 - **HTML5**
